@@ -1,0 +1,30 @@
+Author ID	Password	Author Name	Current Position
+Dev	Dev	Dev Qod	Development Dept.
+author-gd5kd-corp	2MSAEDjLhkEv	Sidney Hogan	Chief People Officer
+author-7gncb-corp	UEv7q5VFhSej	Octavio Walton	VP of Miscellaneous Stuff
+author-2tcr0-corp	xwtdQw7GAk9j	Declan Bautista	Chief Robot Whisperer
+author-ax9z2-corp	uQrvPXhHxkwY	Serena Garrett	Director of First Impressions
+author-kca6j-corp	q2LTuaXdYs8g	Anabella Drake	Culture Operations Manager
+author-hwbsx-corp	HpbmvJmKMb7j	Kyle Rivers	Director of Ethical Hacking
+author-u24et-corp	Nhjpy2g6KYAV	Jazmin Saunders	Software Ninjaneer
+author-u184o-corp	9kzQc3sNf9Kw	Gunnar Robertson	Director of Bean Counting
+author-zcq3z-corp	Zahpth3hJDGB	Winston Carr	Digital Overlord
+author-seklk-corp	bBPaYxWwb8Ep	Conrad Mccullough	Director of Storytelling
+author-nd8dy-corp	E8kcNuJEjSGt	Miley Davidson	Chief Operating Officer
+author-76hkm-corp	VZqAn2DbFgrq	Skyler Soto	Chief Financial Officer
+author-gx83s-corp	sTVjBypugx74	Cannon Rubio	Chief Information Officer
+author-fhvfi-corp	FggPV4LNjgV3	Deborah Sawyer	Chief Technology Officer
+author-szdne-corp	VMhhg2MB3csm	Bryanna Stanley	Chief Marketing Officer
+author-4n32l-corp	sRV7tnQ9Muwm	Mira Murillo	Chief Human Resources Officer
+author-8kbev-corp	pudBZ5vhnbCz	Maria Houston	Chief Data Officer
+author-emhus-corp	2t9zuQEHrWx7	Agustin Palmer	Chief Product Officer
+author-8n4yw-corp	q5x4DBZABJgK	Rachel Cox	Chief Customer Officer
+author-4fq5w-corp	gbrTfmKAUrQ3	Julianna Strickland	Assistant Manager
+author-3jf01-corp	HWUZE7gARdFy	Diego Beasley	Executive
+author-o25b4-corp	Wx7fGqkTrNfr	Lorena Roach	Director
+author-pwwvy-corp	9e8NnEUwgN3V	Isis Ross	Coordinator
+author-ejo9i-corp	MhTccY6LGqTC	Whitney Rivera	Administrator
+author-itvxs-corp	kMtMDXprUnCU	Jared Andersen	Controller
+author-9je3r-corp	jFQBFMSGnteA	Abraham Sampson	Officer
+author-s7qt3-corp	3LxwxkKHeUJP	Ishaan Davenport	Organizer
+author-1pygg-corp	xmHd3xVEvqY4	Dixie Finley	Supervisor

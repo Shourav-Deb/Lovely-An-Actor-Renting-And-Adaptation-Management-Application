@@ -1,0 +1,30 @@
+Employee ID	Password	Employee Name	Current Position
+Dev	Dev	Dev Qod	Development Dept.	
+emp-urjxr-corp	kh9ngajrfe6wfu	Gael Alvarado	Virtual Assistant
+emp-ku1pp-corp	3d0c35nfd9mkzf	Brayan Dillon	Customer Service
+emp-g6p5d-corp	w0x57iwx4b7s2f	Deandre Castaneda	Customer Support
+emp-nbndg-corp	t73vhoonqgbg1a	Aleena Rodgers	Concierge
+emp-ypojw-corp	9lnpj1b6vikyil	Matteo Hammond	Help Desk
+emp-uap6a-corp	v2gqh8q65ocoeh	April Weber	Customer Service Manager
+emp-7fis7-corp	zhpkxvbq71z7jt	Eddie Braun	Technical Support Specialist
+emp-8elh2-corp	8z6mj34r58e7tz	Urijah Colon	Account Representative
+emp-dq4hd-corp	zy2imrcllwz0vc	Jeramiah Cervantes	Client Service Specialist
+emp-6syyx-corp	nh6uvatx64s1jj	Kaylen Larsen	Customer Care Associate
+emp-1qlqb-corp	28g0dzgsas0w9x	Walter Davies	Operations Manager
+emp-kkvxz-corp	d19daiu4abhyue	Brylee Rowe	Operations Assistant
+emp-ublg5-corp	g26kpi41103ty3	Fiona Ball	Operations Coordinator
+emp-tu9sw-corp	exw702xeyji5xb	Sierra Adams	Operations Analyst
+emp-5cr0r-corp	5y8f33uudjsbpa	Cason Miles	Operations Director
+emp-i1gfz-corp	r4c42ya8odkomu	Ross Yates	Vice President of Operations
+emp-myor9-corp	56lmt9wgreiv1u	Conor Bautista	Operations Professional
+emp-rzv75-corp	fcdbf405q8y9ce	Micah Luna	Scrum Master
+emp-l0hc9-corp	8p9vkh9ngajrfe	Ashton Mcgee	Continuous Improvement Lead
+emp-ht3ia-corp	6wfu3d0c35nfd9	Tamia Zamora	Continuous Improvement Consultant
+emp-gwtdf-corp	mkzfw0x57iwx4b	Jay Orr	Accounting Analyst
+emp-1fjoh-corp	7s2ft73vhoonqg	Taliyah Mcgrath	Accounting Director
+emp-39a8c-corp	bg1a9lnpj1b6vi	Frida Fuller	Accounts Payable/Receivable Clerk
+emp-sx2nw-corp	kyilv2gqh8q65o	Yael Henry	Payroll Clerk
+emp-v69b5-corp	coehzhpkxvbq71	Jade Cervantes	Financial Planner
+emp-mxsh4-corp	z7jt8z6mj34r58	Raelynn Santana	Financial Services Representative
+emp-6k47h-corp	e7tzzy2imrcllw	Kristopher Blankenship	Credit Authorizer
+emp-e2ctt-corp	z0vcnh6uvatx64	Derick Merritt	Benefits Manager

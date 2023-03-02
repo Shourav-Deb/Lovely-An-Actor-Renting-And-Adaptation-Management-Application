@@ -1,0 +1,21 @@
+Image	Center ID	Center Name	ESTD.	Country	Location	Member's	Bank Name	Account No.	Currency	Availability	
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\55763.jpg	55763	Smile Go Round	1703	United States	New York City, New York	319	Bank of America	430-FP100883.2	USD	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\99292.jpg	99292	Universal Giving	1965	Canda	30 Birkett Lane, Brantford	288	Royal Bank of Canada	240-C0183929.1 	UYU	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\40528.jpg	40528	Do Good	1863	United States	San Francisco, California 	305	Wells Fargo	540-C0129986.4	UZS	No
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\34998.jpg	34998	Ambitious But Helpful	1970	United States	Westlake, Texas	295	Charles Schwab Corporation	240-C0129986.5 	VND	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\30188.jpg	30188	Gifts With Heart	1979	China	Yi Xing Nan, Kunmingshi	252	China Merchants Bank	640-C0183929.1	VUV	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\62590.jpg	62590	Modern Day Humanitarian	1991	United States	Pittsburgh, Pennsylvania	272	PNC Financial Services	240-FP100362.6	WST	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\97948.jpg	97948	Together Helping Not Suffering	1900	China	Wan Bao Jie, Changchun	258	Bank of Communications	956-FP100362.4	XAF	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\84633.jpg	84633	Charity Corp	1434	Germany	Ruschestrasse 78, Wismar	252	BayernLB, Munich	240-FP100362.5	XCD	No
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\96075.jpg	97620	Partners In Hope	1612	Canda	385 Brew Creek Rd, Brackendale	250	United Overseas Bank	953-FP100362.7	DKK	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\97620.jpg	96075	Laughing Child	1703	United States	McLean, Virginia	311	Capital One	240-FP100362.8	JPY	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\44501.jpg	44501	The Best Charity	1834	Canda	4941 Jade St, West Vancouver	274	Royal Bank of Canada	910-FP100362.9	SSP	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\83985.jpg	83985	Charity Hero	1656	Sweden	Höjdstigen 79, KÄllÖ-knippla	319	Bank of China	940-FP149473.3	STD	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\26797.jpg	26797	Good Cause	1578	South korea	Naraphar buri So, 1021, Eunpyeong-gu	296	DGB Financial Group	610-C0122229.2	SYP	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\26907.jpg	26907	Charities For Everyone	1857	Thailand	33 Issarapharp, Bangkok	318	Bangkok Bank	240-C0123336.6	SZL	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\32535.jpg	32535	How Kind Can You Be	1802	Sweden	Knektvägen 73, Lund	318	Swedbank	660-C0129986.7	THB	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\33107.jpg	33107	Seedlings	1866	South korea	56, Shinnae-ro, jungnang-gu	263	KakaoBank	280-C0183929.2	TJS	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\30923.jpg	30923	The Salvation Army	1963	Thailand	623/13 Petchaburi Soi 31, Ratchathewi	277	ICBC Thai	277-FP100362.6	TMT	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\32094.jpg	32094	Good To Give	1816	Sweden	Östantorp Vinö 78, Lammhult	262	Resurs Bank	265-FP107862.4	TND	Yes
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\29114.jpg	29114	Smiley Happiness	1881	Germany	 Flotowstr. 51, Sangerhausen	300	GLS Bank, Bochum	645-FH648962.5	TOP	No
+C:\TheFamilyProject\src\thefamilyproject\Images\Admin\DonationList\31202.jpg	31202	We Share	1908	Sweden	Norrfjäll 90, BjÖrnlunda	274	Bank of Asiav	240-RL184312.7	TRY	Yes
