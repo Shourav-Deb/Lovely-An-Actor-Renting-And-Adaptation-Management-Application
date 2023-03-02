@@ -27,17 +27,12 @@ Will work on it after the repository reaches 100 stars.<br><img width="60" src="
 > 5. For different input, you'll get different results. 
 > 
 >
-> You only really need one app to handle everything. I tried to make the page as user-friendly as possible. Even so, some optimization flaws may still exist. Explore in light of this, and keep spreading the love.
+> You only really need one app to handle everything. I tried to make the page as user-friendly as possible. Even so, some optimization flaws may still exist. Still, hope you enjoy this. <img width="24" src="https://i.pinimg.com/originals/df/0c/32/df0c327e6deff22504a60840953e0ec0.gif">
 > 
->   <img width="35" src="https://i.pinimg.com/originals/00/2c/92/002c927c3b6b2cf27a88d0d75ebea652.gif">   Hope you enjoy this.   <img width="30" src="https://i.pinimg.com/originals/df/0c/32/df0c327e6deff22504a60840953e0ec0.gif">
+>   <img width="50" src="https://i.pinimg.com/originals/39/6d/8c/396d8cf19235b7b437d1067045a63b5a.gif">   Explore in light of this, and keep spreading the love.   <img width="50" src="https://i.pinimg.com/originals/2e/3f/b4/2e3fb437d7f49f85319d3b2680debff6.gif">
 > 
 > 
 <hr>
-
-
-
-
-
 
 # Perform These Prior To Running
 * Move TheFamilyProject File In C Folder To Execute Properly.
