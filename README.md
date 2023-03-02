@@ -2,19 +2,24 @@
 
 <h2 align="center"><img width="50" src="https://i.pinimg.com/originals/5a/a4/74/5aa474e48aee150871b7731fbfe8c747.gif">     An-Actor-Renting-And-Adaptation-Management-Application     <img width="50" src="https://i.pinimg.com/originals/5a/a4/74/5aa474e48aee150871b7731fbfe8c747.gif"></h2>
 
-It's a family management tool for organizing family gatherings. Our main goal in this scenario is to make it simple to receive and spread love.<hr>
+It's a family management tool for organizing family gatherings. Our main goal in this scenario is to make it simple to receive and spread love. <img width="80" src="https://i.pinimg.com/originals/57/e8/33/57e833d3a160c080e43f1d3c1bfd610c.gif"><img width="60" src="https://i.pinimg.com/originals/26/29/f7/2629f76cae372f21364024777ea37287.gif">
+<hr>
 
-> There are three different sorts of modules.: 
+> There are three different sorts of modules :    <img width="30" src="https://i.pinimg.com/originals/07/ad/a2/07ada232a29ef2bfb3e346da967d12f9.gif">
 >
 > i. Authority Panel -
 > One can view and manage the user, admin, and app information here.<br><br>
 > ii. Admin Panel -
-> One can manage fresh acting and employment applications here. May also handle requests for actors and adoption.<br><br>
+> One can control the new requests for actors and adoption as well as the information that has been stored. May also handle fresh acting and employment applications here.<br><br>
 > iii. Consumer Panel -
 Here, anyone can hire an actor or sign up themselves to play a relative or romantic partner.
 Also, it contains a mechanism for additional adaptations that allows you to adopt a new family member.
 The possibility of making a donation to make love is also available. <br><br>
-> Software Sides :
+> iv. Actor Panel -
+Star this repository if you wish to get it.
+Will work on it after the repository reaches 100 stars.<br><img width="60" src="https://i.pinimg.com/originals/4b/60/9e/4b609edada0210a87c63d50ac2917d70.gif"><br>
+> 
+> Software Features :
 > 1. Possess an image facility.
 > 2. Actual Number (013******** - 019********), Username, Password, and Email Formatting System.
 > 3. Consumers can freely modify account information.
@@ -22,9 +27,11 @@ The possibility of making a donation to make love is also available. <br><br>
 > 5. For different input, you'll get different results. 
 > 
 >
-> You only really need one app to handle everything. I tried to make the page as user-friendly as possible. Even so, some optimization flaws may still exist. Explore in light of this, and keep spreading the love. . 👨‍👩‍👦‍👦💞.
+> You only really need one app to handle everything. I tried to make the page as user-friendly as possible. Even so, some optimization flaws may still exist. Explore in light of this, and keep spreading the love.
 > 
-> Hope you enjoy this.
+>   <img width="35" src="https://i.pinimg.com/originals/00/2c/92/002c927c3b6b2cf27a88d0d75ebea652.gif">   Hope you enjoy this.   <img width="30" src="https://i.pinimg.com/originals/df/0c/32/df0c327e6deff22504a60840953e0ec0.gif">
+> 
+> 
 <hr>
 
 
