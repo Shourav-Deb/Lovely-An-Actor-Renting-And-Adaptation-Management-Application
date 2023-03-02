@@ -20,7 +20,7 @@ Will work on it after the repository reaches 100 stars.<br><img width="60" src="
 > 
 > Software Features :
 > 1. Process an image facility.
-> 2. Actual Number (013******** - 019********), Username, Password, and Email Formatting System.
+> 2. Actual Number_(013******** - 019********), NID_(10-12 number long), Username, Password, and Email Formatting System.
 > 3. Consumers can freely modify account information.
 > 4. Consumers have the option of manually recovering their accounts or using support.
 > 5. For different input, you'll get different results. 
