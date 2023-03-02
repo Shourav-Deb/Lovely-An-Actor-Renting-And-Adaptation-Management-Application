@@ -1,7 +1,7 @@
 <h1 align="center"><img align="center" alt="Coding" width="200" src="https://i.pinimg.com/originals/29/66/3d/29663d2019f7e9cd67a932694322a18f.gif"> <br></h1>
 
 <h2 align="center"><img width="50" src="https://i.pinimg.com/originals/5a/a4/74/5aa474e48aee150871b7731fbfe8c747.gif">     An-Actor-Renting-And-Adaptation-Management-Application     <img width="50" src="https://i.pinimg.com/originals/5a/a4/74/5aa474e48aee150871b7731fbfe8c747.gif"></h2>
-<h5 align="center"><br> <img width="80" src="https://i.pinimg.com/originals/39/6d/8c/396d8cf19235b7b437d1067045a63b5a.gif"><img width="60" class="center" src="https://i.pinimg.com/originals/26/29/f7/2629f76cae372f21364024777ea37287.gif"><br>It's a family management tool for organizing family gatherings. Our main goal in this scenario is to make it simple to receive and spread love.</h5>
+<h5 align="center"><br>It's a family management tool for organizing family gatherings. Our main goal in this scenario is to make it simple to receive and spread love.<br> <img width="80" src="https://i.pinimg.com/originals/39/6d/8c/396d8cf19235b7b437d1067045a63b5a.gif"><img width="60" class="center" src="https://i.pinimg.com/originals/26/29/f7/2629f76cae372f21364024777ea37287.gif"></h5>
 <hr>
 
 > There are three different sorts of modules :    <img width="30" src="https://i.pinimg.com/originals/07/ad/a2/07ada232a29ef2bfb3e346da967d12f9.gif">
