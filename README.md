@@ -1,8 +1,7 @@
 <h1 align="center"><img align="center" alt="Coding" width="200" src="https://i.pinimg.com/originals/29/66/3d/29663d2019f7e9cd67a932694322a18f.gif"> <br></h1>
 
-<h2 align="center"><img width="50" src="https://i.pinimg.com/originals/5a/a4/74/5aa474e48aee150871b7731fbfe8c747.gif">     An-Actor-Renting-And-Adaptation-Management-Application     <img width="50" src="https://i.pinimg.com/originals/5a/a4/74/5aa474e48aee150871b7731fbfe8c747.gif"></h2>
-
-It's a family management tool for organizing family gatherings. Our main goal in this scenario is to make it simple to receive and spread love. <img width="80" src="https://i.pinimg.com/originals/39/6d/8c/396d8cf19235b7b437d1067045a63b5a.gif"><img width="60" src="https://i.pinimg.com/originals/26/29/f7/2629f76cae372f21364024777ea37287.gif">
+<h1 align="center"><img width="50" src="https://i.pinimg.com/originals/5a/a4/74/5aa474e48aee150871b7731fbfe8c747.gif">     An-Actor-Renting-And-Adaptation-Management-Application     <img width="50" src="https://i.pinimg.com/originals/5a/a4/74/5aa474e48aee150871b7731fbfe8c747.gif"></h1>
+It's a family management tool for organizing family gatherings. Our main goal in this scenario is to make it simple to receive and spread love. <h2 align="center"><img width="80" src="https://i.pinimg.com/originals/39/6d/8c/396d8cf19235b7b437d1067045a63b5a.gif"><img width="60" class="center" src="https://i.pinimg.com/originals/26/29/f7/2629f76cae372f21364024777ea37287.gif"></h2>
 <hr>
 
 > There are three different sorts of modules :    <img width="30" src="https://i.pinimg.com/originals/07/ad/a2/07ada232a29ef2bfb3e346da967d12f9.gif">
@@ -30,8 +29,7 @@ Will work on it after the repository reaches 100 stars.<br><img width="60" src="
 > You only really need one app to handle everything. I tried to make the page as user-friendly as possible. Even so, some optimization flaws may still exist. Still, hope you enjoy this. <img width="24" src="https://i.pinimg.com/originals/df/0c/32/df0c327e6deff22504a60840953e0ec0.gif">
 > 
 >   <img width="50" src="https://i.pinimg.com/originals/04/e6/aa/04e6aa02a4d0ed5c31fad3e77128a2ad.gif">   Explore in light of this, and keep spreading the love.   <img width="50" src="https://i.pinimg.com/originals/01/f8/18/01f818ee57e2f80e3ac4c55506c3a72c.gif">
-> 
-> 
+
 <hr>
 
 # Perform These Prior To Running
