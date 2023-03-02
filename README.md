@@ -2,23 +2,30 @@
 
 <h2 align="center"><img width="50" src="https://i.pinimg.com/originals/5a/a4/74/5aa474e48aee150871b7731fbfe8c747.gif">     An-Actor-Renting-And-Adaptation-Management-Application     <img width="50" src="https://i.pinimg.com/originals/5a/a4/74/5aa474e48aee150871b7731fbfe8c747.gif"></h2>
 
-It's a family management application to properly manage family meetup. Here we are basically making easy to get and spread love with love.
-<hr>
+It's a family management tool for organizing family gatherings. Our main goal in this scenario is to make it simple to receive and spread love.<hr>
 
-> It has 3 types of panels: 
+> There are three different sorts of modules.: 
 >
 > i. Authority Panel -
-> Here one can see and manage the user, admin & app info.<br><br>
+> One can view and manage the user, admin, and app information here.<br><br>
 > ii. Admin Panel -
-> Here one can manage new applications for acting & job. Also, can manage actor & adoption requests.<br><br>
+> One can manage fresh acting and employment applications here. May also handle requests for actors and adoption.<br><br>
 > iii. Consumer Panel -
-Here anyone can rent an actor or register as an actor to act as a family member or partner. Also, it has an additional adaption system where you can adopt a new family member. One can also get info to make donation to make love.
-
+Here, anyone can hire an actor or sign up themselves to play a relative or romantic partner.
+Also, it contains a mechanism for additional adaptations that allows you to adopt a new family member.
+The possibility of making a donation to make love is also available. <br><br>
 > Software Sides :
-> 1. Have Image Facilitie.
-> 2. Real Number (013******** - 019********), Username, Password & Email formating system.
-> 3. Consumer manually can change your account details
-One app all solution. So make family and spread love. 👨‍👩‍👦‍👦💞.
+> 1. Possess an image facility.
+> 2. Actual Number (013******** - 019********), Username, Password, and Email Formatting System.
+> 3. Consumers can freely modify account information.
+> 4. Consumers have the option of manually recovering their accounts or using support.
+> 5. For different input, you'll get different results. 
+> 
+>
+> You only really need one app to handle everything. I tried to make the page as user-friendly as possible. Even so, some optimization flaws may still exist. Explore in light of this, and keep spreading the love. . 👨‍👩‍👦‍👦💞.
+> 
+> Hope you enjoy this.
+<hr>
 
 
 
