@@ -19,7 +19,7 @@ Star this repository if you wish to get it.
 Will work on it after the repository reaches 100 stars.<br><img width="60" src="https://i.pinimg.com/originals/4b/60/9e/4b609edada0210a87c63d50ac2917d70.gif"><br>
 > 
 > Software Features :
-> 1. Possess an image facility.
+> 1. Process an image facility.
 > 2. Actual Number (013******** - 019********), Username, Password, and Email Formatting System.
 > 3. Consumers can freely modify account information.
 > 4. Consumers have the option of manually recovering their accounts or using support.
