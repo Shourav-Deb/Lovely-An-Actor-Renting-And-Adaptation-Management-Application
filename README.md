@@ -2,7 +2,23 @@
 
 <h2 align="center"><img width="50" src="https://i.pinimg.com/originals/5a/a4/74/5aa474e48aee150871b7731fbfe8c747.gif">     An-Actor-Renting-And-Adaptation-Management-Application     <img width="50" src="https://i.pinimg.com/originals/5a/a4/74/5aa474e48aee150871b7731fbfe8c747.gif"></h2>
 
-It's a management application where anyone can rent an actor or register as a actor. Also it has an additional adaption system 👨‍👩‍👦‍👦💞.
+It's a family management application to properly manage family meetup. Here we are basically making easy to get and spread love with love.
+<hr>
+
+> It has 3 types of panels: 
+>
+> i. Authority Panel -
+> Here one can see and manage the user, admin & app info.<br><br>
+> ii. Admin Panel -
+> Here one can manage new applications for acting & job. Also, can manage actor & adoption requests.<br><br>
+> iii. Consumer Panel -
+Here anyone can rent an actor or register as an actor to act as a family member or partner. Also, it has an additional adaption system where you can adopt a new family member. One can also get info to make donation to make love.
+
+> Software Sides :
+> 1. Have Image Facilitie.
+> 2. Real Number (013******** - 019********), Username, Password & Email formating system.
+> 3. Consumer manually can change your account details
+One app all solution. So make family and spread love. 👨‍👩‍👦‍👦💞.
 
 
 
