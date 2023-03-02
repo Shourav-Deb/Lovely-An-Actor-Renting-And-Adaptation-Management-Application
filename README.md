@@ -20,4 +20,8 @@ It's a management application where anyone can rent an actor or register as a ac
 <p>N.B. Program can be buggy which vary PC 2 PC config. Please, be patient while experienceing low performance.</p>
 <br>
 <h1 align="center">>> Overview <<</h1>
- <h1 align="center"><img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/89/af/c6/89afc651bb13590bd7111f6de930e99d.png"></h1>
+ <h1 align="center"><img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/9f/96/3b/9f963b9b4252e4d8a2a55e72cf119329.png"></h1>
+ <h1 align="center"><img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/51/38/ae/5138ae76756dfa904a9f07793aae899a.png">
+ <img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/7e/14/20/7e14208347c480a08825130fc0087342.png"></h1>
+ <h1 align="center"><img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/75/c1/9c/75c19c17d8752e4fb6d09b56ffe11554.png">
+ <img align="center" alt="Coding" width="500" height="315" src="https://i.pinimg.com/originals/fa/34/ab/fa34ab2ff49abd208a1fc590bde94a37.png"></h1>
