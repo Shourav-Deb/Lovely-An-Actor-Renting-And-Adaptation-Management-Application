@@ -16,7 +16,7 @@ Also, it contains a mechanism for additional adaptations that allows you to adop
 The possibility of making a donation to make love is also available. <br><br>
 > iv. Actor Panel -
 Star this repository if you wish to get it.
-Will work on it after the repository reaches 100 stars.<br><img width="60" src="https://i.pinimg.com/originals/4b/60/9e/4b609edada0210a87c63d50ac2917d70.gif"><br>
+Will work on it after the repository reaches 100 stars.<br><img width="60" src="https://i.pinimg.com/originals/b1/4c/d8/b14cd87686805c2ddb81f99b1a349d78.gif"><br>
 > 
 > Software Features :
 > 1. Process an image facility.
