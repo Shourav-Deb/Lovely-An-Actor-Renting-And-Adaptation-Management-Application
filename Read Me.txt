@@ -1,0 +1,88 @@
+# Lovely _ [An-Actor-Renting-And-Adaptation-Management-Application]
+--------------------------------------------------------------------
+
+It's a family management tool for organizing family gatherings. Our main goal in this scenario is to make it simple to receive and spread love.
+
+There are three different sorts of modules : 
+------------------------------------------------
+i. Authority Panel - One can view and manage the user, admin, and app information here.
+ii. Admin Panel - One can control the new requests for actors and adoption as well as the information that has been stored. May also handle fresh acting and employment applications here.
+iii. Consumer Panel - Here, anyone can hire an actor or sign up themselves to play a relative or romantic partner. Also, it contains a mechanism for additional adaptations that allows you to adopt a new family member. The possibility of making a donation to make love is also available.
+iv. Actor Panel - Star this repository if you wish to get it. Will work on it after the repository reaches 100 stars.
+
+
+Software Features :
+-----------------------
+1. Process an image facility.
+2. Actual Number_(013******** - 019********), NID_(10-12 number long), Username, Password, and Email Formatting System.
+3. Consumers can freely modify account information.
+4. Consumers have the option of manually recovering their accounts or using support.
+5. For different input, you'll get different results.
+
+You only really need one app to handle everything. I tried to make the page as user-friendly as possible. Even so, some optimization flaws may still exist. Still, hope you enjoy this. 
+Explore in light of this, and keep spreading the love. 
+
+
+# Perform These Prior To Running
+---------------------------------
+> Move TheFamilyProject File In C Folder To Execute Properly.
+> Then Open NetBeans 13 Or Higher Version.
+> Make Sure To Use At Least NetBeans 13 & Java JDK 18 Version.
+> Import The Project.
+> Run & Enjoy.
+> Default Admin ID-Pass is (Dev). But self made account is preferred for best experience.
+
+N.B. Program can be buggy which vary PC 2 PC config. Please, be patient while experienceing low performance.
+
+Created By Shourav Deb
+Talk To Me: heyneeddev@gmail.com
+                                                                                                    
+                                                                                                    
+                                              ...:^..:^:::::^.                                      
+                                        ...:::::::~:.:^^:::^~.                                      
+                                  ..:::...       ..::.:::.::.::.^.::^.                              
+                              .:::..             ::~~:~^^::::~^.! :^!^                              
+                          ..::..                    ..:..:.:.:.:.^.:::.:.::.                        
+                        .::.                        .:^.~^::.^.^.!:!^.:~.!^:                        
+                      :::                      ...:...: .:::.:.:.:.:...:.:.::.::.                   
+                    .^:            ....:^^^::...:^!^.^~.:~^~:^.^:7:^^::~.:^~~.~^:                   
+                   ^^.      .....::....           . ..::..:..:.::.:...:..::.:.:.:                   
+                  :~:::..:^:...                     .^!~~^~:~~:~~:^^::!^^~~:^~!:!.                  
+                  ::   .7:                             . .:.:..:......::..:...:.::                  
+                  :.    .^                                :.!^^7.7^^^.~^:^~^^^^^^7.                 
+                 .^      !.               .  . ... .. .  . .:..: :........:..:..:.                  
+                 .^      .~             :^^^^!::!: !~^~.~^^^!^^!.^:^~~^^::~^^!^^!.                  
+                 ^.       !              .  ..  .. .:.......:.::.....:....:..:..:.                  
+                 !        :^                     ^^!~^!^!?55555555555555555555Y~^7.!~.              
+                .~        .^                     ...:.:.:^~~^~~^~~~~~~~~^~~~~~~:.:.::               
+                ~.         ~:                  :!^!:^!:~^~:!:^~.!:^: ^^^~.~.:^:::!^^^:^.            
+                !.         :^                  .:.:..:.:::.:..:.:... ..:: . .....::.. ..            
+               .:           7::::::::::::::.           ^^^:.~^^!.^:~^:~^.!:!:^::.!.!~.              
+                ~          :~..............:^.         :::..:.:^ ..::.:. ^.^.....: ^:               
+                ~.         ^.         ...   .^:  :~:.:~.^^:^.^^.! ::~::^..~:~:^::!                  
+                 !        ^^.:^^:::::...:::.  ^!:.~:.::.:^.::::.^..:^::^..^:^::::~.                 
+                 ^.      :!::. .::        :~~^:^~.~^:^~^!:^^~^?YYYYYYYYYYYY~:~:^:!^^                
+                 .^     :~       .::::::::::!. ::.:...::: .::.~!7!!!7!!777!^.:...:..                
+                  :.   .~.                  ~  ^.:^^~^~^~::~:~~.~ :^~^^::^:^^:~~.7.^.               
+                  ::   :^.                 .~ .! ..::::.:  :.::.: .:::.. .....:: ^ .                
+                  .^    .~:                .: .7 :~::^^::~:~:^.~.~:~^.^~.^~^^:~.                    
+                   ^.     ^:               :. .7 .::.:..::.:.. : :.^: .:.::...:.                    
+                   .~      :^              ~. .~    .^^::~^~:^.~.!:^:.:^.:^^~.^:^.~^                
+                    ^.      .^:            !. ^~::: .:...^:^.. ^.~::: ::. ^:^.:.:.~:                
+                    :~        ^:           7~:.  ^~ .:^^^:^.^^.^^::::.^:.~::::^:^.                  
+                     ^:        :^          ^^:::^^. .:^:~:~:^^:^^::.::^:.^:.:^^::.                  
+                     :^         :~.             ::^:.^..::..:.:^.::::.:::.^.:::.:^.                 
+                      :.         .^:           :~.^::^::^:::::^~.~^::.:.:.~:^:.:^~.                 
+                      ::           ::      ..:..:::::.:..:..:..: .:...... :..:.                     
+                      .:            :^..^~^::.....:!~^:.:^::~::~ .:::^^.:.~::~:                     
+                      .:.            .^::^^:.      .:.^~~~~~~~~~~~~~~~~~~~^.:....:                  
+                       .::..           ::  :^::::::~^^?YYYYYYYYYYYYYYYYYYY?~~^::~!.                 
+                          .::.          ::.:.     .........:.........:. ..                          
+                            ..:^^:       :!^:::::^~^:~::~^:~::~.~^^:.^.                             
+                               .:~~^:.    ~.     .:. .  ........ . ..                               
+                                  .:^~^:..7^ ...:^~::~:.^:::^:^!.:^~^.                              
+                                     .::::7~...  .^^^^^^^^^:.  .   .                                
+                                        .:^~:.:.:!5PP5PP55PY:                                       
+                                           .......::::::::::                                        
+                                                                                                    
+                                                                                                    
